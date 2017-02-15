@@ -1,0 +1,15 @@
+{
+  "name": "collate_mocker",
+  "version": "1.0.0",
+  "description": "Generate mock data for Collate.",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "author": "patleeman@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "casual": "^1.5.8",
+    "delete": "^0.3.2"
+  }
+}
